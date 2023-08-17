@@ -14,7 +14,7 @@ Certifique-se de ter as seguintes bibliotecas Python instaladas:
 
 Você pode instalá-las usando o seguinte comando:
 
-```
+```bash
 pip install selenium openpyxl pandas tqdm webdriver_manager
 
 Como usar
@@ -47,3 +47,8 @@ Observações
 Contribuições
 
 Contribuições são bem-vindas! Se você encontrar bugs, melhorias ou quiser adicionar mais funcionalidades, fique à vontade para abrir uma issue ou enviar um pull request.
+
+javascript
+
+
+Lembre-se de substituir os placeholders (`seu-usuario` e `seu-repositorio`)
