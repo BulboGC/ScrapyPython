@@ -16,8 +16,8 @@ class Scrap:
     def __init__(self):
         self.DATABASE = []
         self.SITE_LINK = "https://app.economapas.com.br/login"
-        self.USER = 'pesquisa@iemi.com.br'
-        self.PASSWORD = 'Iemi270122'
+        self.USER = 'seuemail@email.com'
+        self.PASSWORD = 'suasenha'
         
         self.SITE_LIST_CITY = [
             'JAÚ - SP',
